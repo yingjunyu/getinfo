@@ -5,18 +5,16 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.os.Bundle;
-import android.support.v4.app.Fragment;
-import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.view.LayoutInflater;
-import android.view.View;
-import android.view.ViewGroup;
 import android.widget.RadioButton;
-import com.yingjunyu.getinfo.adapter.CustomAdapter;
+import com.yingjunyu.getinfo.adapter.NewsAdapter;
+import com.yingjunyu.getinfo.api.NewsAsynctaskSDK;
 
 import com.yingjunyu.getinfo.R;
+
+import org.json.JSONArray;
+import org.json.JSONObject;
 
 /**
  * A placeholder fragment containing a simple view.
@@ -27,6 +25,8 @@ public class ui_newsFragment extends Fragment {
     private static final String KEY_LAYOUT_MANAGER = "layoutManager";
     private static final int SPAN_COUNT = 2;
     private static final int DATASET_COUNT = 60;
+
+    private NewsAsynctaskSDK newssdk = new NewsAsynctaskSDK();
 
     private enum LayoutManagerType {
         GRID_LAYOUT_MANAGER,
@@ -39,7 +39,7 @@ public class ui_newsFragment extends Fragment {
     protected RadioButton mGridLayoutRadioButton;
 
     protected RecyclerView mRecyclerView;
-    protected CustomAdapter mAdapter;
+    protected NewsAdapter mAdapter;
     protected RecyclerView.LayoutManager mLayoutManager;
     protected String[] mDataset;
 
@@ -78,8 +78,8 @@ public class ui_newsFragment extends Fragment {
         }
         //setRecyclerViewLayoutManager(mCurrentLayoutManagerType);
 
-        mAdapter = new CustomAdapter(mDataset);
-        // Set CustomAdapter as the adapter for RecyclerView.
+        mAdapter = new NewsAdapter(mDataset);
+        // Set NewsAdapter as the adapter for RecyclerView.
         mRecyclerView.setAdapter(mAdapter);
         // END_INCLUDE(initializeRecyclerView)
 
@@ -112,9 +112,11 @@ public class ui_newsFragment extends Fragment {
     }
 
     private void initDataset() {
-        mDataset = new String[DATASET_COUNT];
-        for (int i = 0; i < DATASET_COUNT; i++) {
-            mDataset[i] = "This is element #" + i;
+        JSONArray jsonNews = newssdk.getNewsJSON();
+        mDataset = new String[jsonNews.length()];
+        for (int i = 0; i < jsonNews.length(); i++) {
+            JSONObject jsonObject = (JSONObject)jsonNews.opt(i);
+            mDataset[i] = jsonObject.optString("title");
         }
     }
 }
