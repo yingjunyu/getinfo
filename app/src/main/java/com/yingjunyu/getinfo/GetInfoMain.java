@@ -14,6 +14,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import com.yingjunyu.getinfo.ui.ui_imp;
+import com.yingjunyu.getinfo.ui.ui_news;
 import android.content.Intent;
 import android.widget.SeekBar;
 import android.support.v7.widget.CardView;
@@ -145,7 +146,8 @@ public class GetInfoMain extends AppCompatActivity
             Intent intent = new Intent(this, ui_imp.class);
             startActivity(intent);
         } else if (id == R.id.nav_gallery) {
-
+            Intent intent = new Intent(this, ui_news.class);
+            startActivity(intent);
         } else if (id == R.id.nav_slideshow) {
 
         } else if (id == R.id.nav_manage) {
