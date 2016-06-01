@@ -41,6 +41,12 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.yingjunyu.getinfo.GetInfoMain" />
         </activity>
+
+        <activity android:name=".ui.CheeseDetailActivity"
+            android:parentActivityName=".GetInfoMain">
+            <meta-data android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GetInfoMain" />
+        </activity>
     </application>
 
 </manifest>
