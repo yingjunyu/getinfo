@@ -24,8 +24,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".ui.ui_imp"
+        <!--<activity
+            android:name=".ui.old20160606.ui_imp"
             android:label="天气信息"
             android:parentActivityName=".GetInfoMain">
             <meta-data
@@ -33,19 +33,38 @@
                 android:value="com.yingjunyu.getinfo.GetInfoMain" />
         </activity>
         <activity
-            android:name=".ui.ui_news"
+            android:name=".ui.old20160606.ui_news"
             android:label="@string/title_activity_ui_news"
             android:parentActivityName=".GetInfoMain"
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.yingjunyu.getinfo.GetInfoMain" />
-        </activity>
-
-        <activity android:name=".ui.CheeseDetailActivity"
+        </activity>-->
+        <activity
+            android:name=".ui.CheeseDetailActivity"
             android:parentActivityName=".GetInfoMain">
-            <meta-data android:name="android.support.PARENT_ACTIVITY"
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
                 android:value=".GetInfoMain" />
+        </activity>
+        <activity
+            android:name=".ui.ac_weather"
+            android:label="天气信息"
+            android:parentActivityName=".GetInfoMain"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.yingjunyu.getinfo.GetInfoMain" />
+        </activity>
+        <activity
+            android:name=".ui.ac_news"
+            android:label="新闻信息"
+            android:parentActivityName=".GetInfoMain"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.yingjunyu.getinfo.GetInfoMain" />
         </activity>
     </application>
 

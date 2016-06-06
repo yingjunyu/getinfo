@@ -4,7 +4,6 @@ import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.ActionBar;
-import android.util.Log;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -14,13 +13,12 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
-import com.yingjunyu.getinfo.ui.ui_imp;
-import com.yingjunyu.getinfo.ui.ui_news;
+import com.yingjunyu.getinfo.ui.ac_weather;
+import com.yingjunyu.getinfo.ui.ac_news;
 import android.content.Intent;
 import android.widget.SeekBar;
 import android.support.v7.widget.CardView;
 import android.support.v4.view.ViewPager;
-import android.widget.AdapterView;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
@@ -30,8 +28,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.yingjunyu.getinfo.ui.CheeseListFragment;
-
-import com.baidu.apistore.sdk.ApiStoreSDK;
 
 public class GetInfoMain extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -67,16 +63,16 @@ public class GetInfoMain extends AppCompatActivity
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "暂时不实现任何功能，留待以后拓展", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
-        /*ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
+        ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
         drawer.setDrawerListener(toggle);
-        toggle.syncState();*/
+        toggle.syncState();
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
@@ -167,13 +163,16 @@ public class GetInfoMain extends AppCompatActivity
 
         if (id == R.id.nav_camera) {
             // Handle the camera action
-            Intent intent = new Intent(this, ui_imp.class);
+            Intent intent = new Intent(this,ac_weather.class);
             startActivity(intent);
         } else if (id == R.id.nav_gallery) {
-            Intent intent = new Intent(this, ui_news.class);
+            //Intent intent = new Intent(this, ui_news.class);
+            //startActivity(intent);
+            Intent intent = new Intent(this,ac_news.class);
             startActivity(intent);
         } else if (id == R.id.nav_slideshow) {
-
+            Intent intent = new Intent(this, GetInfoMain.class);
+            startActivity(intent);
         } else if (id == R.id.nav_manage) {
 
         } else if (id == R.id.nav_share) {
@@ -189,9 +188,9 @@ public class GetInfoMain extends AppCompatActivity
 
     private void setupViewPager(ViewPager viewPager) {
         Adapter adapter = new Adapter(getSupportFragmentManager());
-        adapter.addFragment(new CheeseListFragment(), "Category 1");
-        adapter.addFragment(new CheeseListFragment(), "Category 2");
-        adapter.addFragment(new CheeseListFragment(), "Category 3");
+        adapter.addFragment(new CheeseListFragment(), "待完成工作");
+        adapter.addFragment(new CheeseListFragment(), "进行中工作");
+        adapter.addFragment(new CheeseListFragment(), "已完成工作");
         viewPager.setAdapter(adapter);
     }
 

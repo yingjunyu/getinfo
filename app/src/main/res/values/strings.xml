@@ -31,4 +31,6 @@
     <string name="menu_night_mode_day">Day (always)</string>
     <string name="menu_night_mode_night">Night (always)</string>
     <string name="menu_night_mode_auto">Auto</string>
+    <string name="title_activity_ac_weather">ac_weather</string>
+    <string name="title_activity_ac_news">ac_news</string>
 </resources>
