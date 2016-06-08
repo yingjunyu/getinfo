@@ -4,7 +4,7 @@
     <string name="navigation_drawer_open">打开</string>
     <string name="navigation_drawer_close">关闭</string>
 
-    <string name="action_settings">设置</string>
+    <string name="action_settings">分享</string>
     <string name="title_activity_ui_imp">图片信息</string>
     <string name="hello_world">第一个界面！</string>
 
@@ -33,4 +33,14 @@
     <string name="menu_night_mode_auto">Auto</string>
     <string name="title_activity_ac_weather">ac_weather</string>
     <string name="title_activity_ac_news">ac_news</string>
+
+    <string name="listView">ListView</string>
+    <string name="back">&lt;</string>
+    <string name="timeSet">time set</string>
+    <string name="dateText">datetime</string>
+    <string name="search_hint">搜索记录</string>
+    <string name="search_label">搜索</string>
+    <string name="alertName">事件提醒</string>
+    <string name="positiveButton">查看</string>
+    <string name="negativeButton">忽略</string>
 </resources>

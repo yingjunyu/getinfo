@@ -28,6 +28,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.yingjunyu.getinfo.ui.CheeseListFragment;
+import com.yingjunyu.getinfo.util.Utils;
+import com.yingjunyu.getinfo.ui.ac_editWork;
 
 public class GetInfoMain extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -149,6 +151,24 @@ public class GetInfoMain extends AppCompatActivity
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
+            Intent intent1 = new Intent(Intent.ACTION_SEND);
+            intent1.setType("text/plain");
+            intent1.putExtra(Intent.EXTRA_SUBJECT, "分享");
+            intent1.putExtra(Intent.EXTRA_TEXT, "hi,我是yingjunyu，来自备忘录分享");
+            Intent chooser = Intent.createChooser(intent1, "测试分享操作");
+            startActivity(chooser);
+            return true;
+        }
+
+        //打开记录工作界面
+        if(id == R.id.action_editwork){
+            Intent intent2 = new Intent(this, ac_editWork.class);
+            Bundle b = new Bundle();
+            b.putString("datetime", "");
+            b.putString("content", "");
+            b.putString("alerttime","");
+            intent2.putExtra("android.intent.extra.INTENT", b);
+            startActivity(intent2);
             return true;
         }
 

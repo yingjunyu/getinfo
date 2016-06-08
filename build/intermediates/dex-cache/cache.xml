@@ -26,7 +26,7 @@
         jar="F:\GetInfo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="ed7ccf84a9a92558ee3225fef597d0b2dbf94e1a">
+        sha1="b6b11145ba9d584de6ba48ad339bf31b375bb3b0">
         <dex dex="F:\GetInfo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_796d84dfe307b7c17783fa9b336fb302d9b5ae1c\classes.dex" />
     </item>
     <item
@@ -61,7 +61,7 @@
         jar="F:\GetInfo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="2bff81a48c56b92eb3e1027e6fc7145951b588df">
+        sha1="08a574f09967887347ec98f144b060175e15f41b">
         <dex dex="F:\GetInfo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2db8bc513b81e2ea1876e32502ef161bb8e02f57\classes.dex" />
     </item>
     <item

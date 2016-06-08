@@ -66,6 +66,9 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.yingjunyu.getinfo.GetInfoMain" />
         </activity>
+        <activity
+            android:name=".ui.ac_editWork"
+            android:label="编辑工作" />
     </application>
 
 </manifest>
