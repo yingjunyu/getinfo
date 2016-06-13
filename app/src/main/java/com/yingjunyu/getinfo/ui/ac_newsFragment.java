@@ -25,6 +25,13 @@ public class ac_newsFragment extends Fragment {
         View view = inflater.inflate(R.layout.fragment_ac_news, container, false);
         webView_news1 = (WebView)view.findViewById(R.id.webView_news1);
         webView_news1.getSettings().setJavaScriptEnabled(true);
+        webView_news1.setWebViewClient(new WebViewClient(){
+            @Override
+            public boolean shouldOverrideUrlLoading(WebView view, String url){
+                view.loadUrl(url);
+                return true;
+            }
+        });
         webView_news1.loadUrl("http://m.baidu.com/news");
         return view;
     }

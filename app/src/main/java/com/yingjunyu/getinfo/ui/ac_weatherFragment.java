@@ -26,6 +26,13 @@ public class ac_weatherFragment extends Fragment {
         View view = inflater.inflate(R.layout.fragment_ac_weather, container, false);
         webView_weather = (WebView) view.findViewById(R.id.webView_weather);
         webView_weather.getSettings().setJavaScriptEnabled(true);
+        webView_weather.setWebViewClient(new WebViewClient(){
+            @Override
+            public boolean shouldOverrideUrlLoading(WebView view, String url){
+                view.loadUrl(url);
+                return true;
+            }
+        });
         webView_weather.loadUrl("http://m.baidu.com/from=0/s?word=%E6%AD%A6%E6%B1%89%E5%A4%A9%E6%B0%94&sa=ipw");
         return view;
     }

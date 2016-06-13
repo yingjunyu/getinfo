@@ -1,4 +1,11 @@
-# 信息通（V0.1.5)
+# 信息通（V0.1.6)
+
+2016-06-13 更新信息
+
+1. 在新闻信息和天气信息的Fragment中WebView中增加了WebViewClient方法，改写了shouldOverrideUrlLoading方法，实现在WebView中打开页面的方法；
+2. 准备开始以MVP模式重写系统页面。
+
+----------
 
 2016-06-08 更新信息
 
