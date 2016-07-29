@@ -1,15 +1,17 @@
 package com.yingjunyu.getinfo.ui;
 
+import android.support.v4.app.Fragment;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.view.KeyEvent;
 import android.view.View;
 
 import com.yingjunyu.getinfo.R;
 
-public class ac_news extends AppCompatActivity {
+public class ac_news extends AppCompatActivity{
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,5 +30,4 @@ public class ac_news extends AppCompatActivity {
         });*/
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }
-
 }
