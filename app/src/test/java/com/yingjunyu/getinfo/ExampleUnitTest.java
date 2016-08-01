@@ -1,4 +1,4 @@
-package com.yingjunyu.getinfo;
+package com.yingjunyu.GetInfo;
 
 import org.junit.Test;
 

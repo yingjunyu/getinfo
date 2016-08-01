@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">信息通</string>
+
+    <string name="navigation_drawer_open">打开</string>
+    <string name="navigation_drawer_close">关闭</string>
+
+    <string name="action_settings">分享</string>
+    <string name="title_activity_ui_imp">图片信息</string>
+    <string name="hello_world">第一个界面！</string>
+
+    <string name="title_activity_card_view">CardViewActivity</string>
+    <string name="cardview_contents">This is a CardView widget. CardView widgets can have
+        shadows and rounded corners.
+        \n\nTo create a card with a shadow, use the <font fgcolor="#FFFFFFFF">android:elevation</font>
+        attribute.
+        \n\nTo set the corner radius in your layouts, use the <font fgcolor="#FFFFFFFF">card_view:cardCornerRadius</font> attribute.
+    </string>
+    <string name="cardview_radius_seekbar_text">Radius</string>
+    <string name="cardview_elevation_seekbar_text">Elevation</string>
+    <string name="title_activity_ui_news">新闻信息</string>
+
+    <string name="cheese_ipsum">Jarlsberg lancashire edam. Dolcelatte hard cheese brie st. agur blue
+    cheese caerphilly bavarian bergkase cheese and biscuits mascarpone. Cheeseburger swiss bavarian
+    bergkase cream cheese fromage frais cheesy feet port-salut airedale. St. agur blue cheese rubber
+    cheese caerphilly cheddar cheesecake cream cheese manchego lancashire. Roquefort squirty cheese
+    the big cheese.</string>
+    <string name="checkin">Checkin</string>
+
+    <string name="menu_night_mode">Night mode</string>
+    <string name="menu_night_mode_system">Follow system</string>
+    <string name="menu_night_mode_day">Day (always)</string>
+    <string name="menu_night_mode_night">Night (always)</string>
+    <string name="menu_night_mode_auto">Auto</string>
+    <string name="title_activity_ac_weather">ac_weather</string>
+    <string name="title_activity_ac_news">ac_news</string>
+
+    <string name="listView">ListView</string>
+    <string name="back">&lt;</string>
+    <string name="timeSet">time set</string>
+    <string name="dateText">datetime</string>
+    <string name="search_hint">搜索记录</string>
+    <string name="search_label">搜索</string>
+    <string name="alertName">事件提醒</string>
+    <string name="positiveButton">查看</string>
+    <string name="negativeButton">忽略</string>
+</resources>
