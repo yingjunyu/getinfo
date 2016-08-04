@@ -1,7 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f8e14e8-202b-465d-911c-b63568599439" name="Default" comment="" />
+    <list default="true" id="4f8e14e8-202b-465d-911c-b63568599439" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/gradle.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/libraries/ApiStoreSDK1_0_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/libraries/animated_vector_drawable_23_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/libraries/appcompat_v7_23_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/libraries/cardview_v7_23_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/libraries/circleimageview_1_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/libraries/design_23_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/libraries/glide_3_6_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/libraries/hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/libraries/junit_4_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/libraries/recyclerview_v7_23_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/libraries/support_annotations_23_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/libraries/support_v4_23_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/libraries/support_vector_drawable_23_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/runConfigurations.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/ApiStoreSDK1.0.4/ApiStoreSDK1.0.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/GetInfo.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/app.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/libs/ApiStoreSDK1.0.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/androidTest/java/com/yingjunyu/getinfo/ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/GetInfoApplication.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/GetInfoMain.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/adapter/old20160606/NewsAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/adapter/old20160606/WeatherAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/api/old20160606/NewsAsynctaskSDK.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/api/old20160606/WeatherAsynctaskSDK.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/db/GiWork.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/db/SqlGiWork.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/db/SqlLite.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/db/old20160606/CityWeather.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/db/old20160606/WeatherDB.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/db/old20160606/WeatherOpenHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/ui/CheeseDetailActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/ui/CheeseListFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/ui/Cheeses.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/ui/ac_editWork.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/ui/ac_news.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/ui/ac_newsFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/ui/ac_weather.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/ui/ac_weatherFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/ui/old20160606/ui_imp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/ui/old20160606/ui_impFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/ui/old20160606/ui_news.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/ui/old20160606/ui_newsFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/util/TimeSetDialog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/java/com/yingjunyu/getinfo/util/Utils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable-v21/ic_menu_camera.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable-v21/ic_menu_gallery.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable-v21/ic_menu_manage.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable-v21/ic_menu_send.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable-v21/ic_menu_share.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable-v21/ic_menu_slideshow.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable/bg_blue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable/cheese_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable/cheese_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable/cheese_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable/cheese_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable/cheese_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable/clock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable/ic_dashboard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable/ic_discuss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable/ic_done.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable/ic_event.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable/ic_forum.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable/ic_headset.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable/ic_menu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable/side_nav_bar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable/tianjia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable/tianjia_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable/tianjia_sl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/drawable/xinjian.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/activity_ac_news.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/activity_ac_weather.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/activity_detail.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/activity_edit_work.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/activity_get_info_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/activity_ui_imp.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/activity_ui_news.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/app_bar_get_info_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/collection_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/content_ac_news.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/content_ac_weather.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/content_get_info_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/content_get_info_main_bk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/content_ui_news.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/fragment_ac_news.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/fragment_ac_weather.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/fragment_cheese_list.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/fragment_ui_imp.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/fragment_ui_news.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/list_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/nav_header_get_info_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/text_row_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/timeset_view.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/weather_day.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/layout/weather_detail.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/menu/activity_get_info_main_drawer.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/menu/get_info_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/menu/menu_ac_news.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/menu/menu_ac_weather.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/menu/menu_ui_imp.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/menu/menu_ui_news.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/menu/sample_actions.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/mipmap-xhdpi/weather_sunny.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/values-v21/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/values/colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/values/drawables.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/main/res/values/template-dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/app/src/test/java/com/yingjunyu/getinfo/ExampleUnitTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/settings.gradle" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GetInfo.iml" afterPath="$PROJECT_DIR$/GetInfo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/commons/Urls.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/commons/Urls.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/main/presenter/MainPresenterImpl.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/main/presenter/MainPresenterImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/main/view/MainView.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/main/view/MainView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/main/widget/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/main/widget/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/navigation_menu.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/navigation_menu.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+    </list>
     <ignored path="GetInfo.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,6 +181,85 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="GetInfo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MainPresenterImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/main/presenter/MainPresenterImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/main/view/MainView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/main/widget/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.5912409">
+              <caret line="117" column="31" selection-start-line="117" selection-start-column="31" selection-end-line="117" selection-end-column="31" />
+              <folding>
+                <element signature="e#4213#4238#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MovieFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/mtoutiao/widget/MovieFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="57" column="80" selection-start-line="57" selection-start-column="80" selection-end-line="57" selection-end-column="80" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navigation_menu.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/navigation_menu.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.2222223">
+              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Urls.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/commons/Urls.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="46" column="42" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -2096,7 +2338,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="5842918072000" />
+        <entry key="$PROJECT_DIR$" value="5844026090000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2463,6 +2705,33 @@
       <projects_view />
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_mtoutiao_webview.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/mtoutiao/FragmentMtoutiaoWebviewFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/beans/MovieBean.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/movie/ImageAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/movie/ImageJsonUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/movie/model/ImageModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/movie/model/ImageModelImpl.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/movie/presenter/ImagePresenter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/movie/presenter/ImagePresenterImpl.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/movie/view/ImageDetailView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/movie/view/ImageView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/movie/widget/ImageFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/movie/webview/MovieWebChromeClient.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_movie_webview.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/movie/widget/MovieFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/main/view/MainView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/main/presenter/MainPresenterImpl.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/commons/Urls.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/mtoutiao/widget/MovieFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/navigation_menu.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/main/widget/MainActivity.java" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -2476,7 +2745,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -2494,7 +2763,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GetInfo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2511,6 +2800,28 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GetInfo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menu" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2545,19 +2856,212 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GetInfo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GetInfo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GetInfo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GetInfo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mtoutiao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GetInfo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GetInfo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mtoutiao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="widget" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GetInfo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GetInfo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="widget" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GetInfo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GetInfo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GetInfo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GetInfo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="presenter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GetInfo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GetInfo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="commons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GetInfo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/sdk" />
+    <property name="device.picker.selection" value="2a22330" />
+    <property name="SearchCodotaHistoryKey" value="webview&#9;null&#9;null" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="layout" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yingjunyu.GetInfo.beans" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GetInfo\app\src\main\java\com\yingjunyu\GetInfo\movie" />
+      <recent name="F:\GetInfo\app\src\main\java\com\yingjunyu\GetInfo" />
+    </key>
   </component>
   <component name="RunManager" selected="Android Application.app">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -2592,6 +3096,39 @@
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2633,6 +3170,48 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -2669,7 +3248,35 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="app" type="AndroidRunConfigurationType" factoryName="Android Application">
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="app" type="AndroidRunConfigurationType" factoryName="Android Application" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
@@ -2734,35 +3341,37 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298791" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298791" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="CodotaView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928678" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2784,5 +3393,236 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/main/presenter/MainPresenterImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_movie_webview.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.7116565">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_image_loadfail.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/beans/NewsBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.9981752">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/beans/MovieBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.93613136">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="e#480#481#0" expanded="false" />
+            <element signature="e#522#523#0" expanded="false" />
+            <element signature="e#556#557#0" expanded="false" />
+            <element signature="e#591#592#0" expanded="false" />
+            <element signature="e#622#623#0" expanded="false" />
+            <element signature="e#670#671#0" expanded="false" />
+            <element signature="e#710#711#0" expanded="false" />
+            <element signature="e#749#750#0" expanded="false" />
+            <element signature="e#784#785#0" expanded="false" />
+            <element signature="e#840#841#0" expanded="false" />
+            <element signature="e#888#889#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/mtoutiao/view/ImageDetailView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29562044">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/beans/ImageBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.18248175">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/mtoutiao/ImageAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/mtoutiao/widget/ImageFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.29927006">
+          <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/mtoutiao/presenter/ImagePresenterImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.49270073">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/mtoutiao/presenter/ImagePresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3448905">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/mtoutiao/view/ImageView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44343066">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/mtoutiao/model/ImageModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5912409">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/mtoutiao/model/ImageModelImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.049270075">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/mtoutiao/ImageJsonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.2591241">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_movie_webview.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0872483">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/main/presenter/MainPresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/mtoutiao/webview/MovieWebChromeClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9831933">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/main/view/MainView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/main/presenter/MainPresenterImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/commons/Urls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="42" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/mtoutiao/widget/MovieFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="57" column="80" selection-start-line="57" selection-start-column="80" selection-end-line="57" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/navigation_menu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.2222223">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yingjunyu/GetInfo/main/widget/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.5912409">
+          <caret line="117" column="31" selection-start-line="117" selection-start-column="31" selection-end-line="117" selection-end-column="31" />
+          <folding>
+            <element signature="e#4213#4238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

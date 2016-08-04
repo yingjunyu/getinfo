@@ -15,6 +15,7 @@ import com.yingjunyu.GetInfo.images.widget.ImageFragment;
 import com.yingjunyu.GetInfo.main.presenter.MainPresenter;
 import com.yingjunyu.GetInfo.main.presenter.MainPresenterImpl;
 import com.yingjunyu.GetInfo.main.view.MainView;
+import com.yingjunyu.GetInfo.mtoutiao.widget.MovieFragment;
 import com.yingjunyu.GetInfo.news.widget.NewsFragment;
 import com.yingjunyu.GetInfo.weather.widget.WeatherFragment;
 
@@ -109,5 +110,11 @@ public class MainActivity extends AppCompatActivity implements MainView {
     public void switch2About() {
         getSupportFragmentManager().beginTransaction().replace(R.id.frame_content, new AboutFragment()).commit();
         mToolbar.setTitle(R.string.navigation_about);
+    }
+
+    @Override
+    public void switch2Movie(){
+        getSupportFragmentManager().beginTransaction().replace(R.id.frame_content, new MovieFragment()).commit();
+        mToolbar.setTitle("百度新闻");
     }
 }

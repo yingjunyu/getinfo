@@ -40,4 +40,10 @@ public class Urls {
     //百度定位
     public static final String INTERFACE_LOCATION = "http://api.map.baidu.com/geocoder";
 
+    //优酷地址
+    public static final String MOVIE_URL = "http://www.youku.com";
+
+    //头条
+    public static final String MTT_URL = "http://m.news.baidu.com/news";
+
 }
