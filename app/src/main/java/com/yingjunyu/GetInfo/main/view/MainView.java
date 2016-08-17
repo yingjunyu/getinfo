@@ -12,5 +12,6 @@ public interface MainView {
     void switch2Images();
     void switch2Weather();
     void switch2About();
-    void switch2Movie();
+    void switch2Msina();
+    void switch2Stock();
 }

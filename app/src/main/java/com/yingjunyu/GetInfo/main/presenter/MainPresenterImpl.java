@@ -33,7 +33,10 @@ public class MainPresenterImpl implements MainPresenter {
                 mMainView.switch2About();
                 break;
             case R.id.navigation_item_movie:
-                mMainView.switch2Movie();;
+                mMainView.switch2Msina();
+                break;
+            case R.id.navigation_item_stock:
+                mMainView.switch2Stock();
                 break;
             default:
                 mMainView.switch2News();

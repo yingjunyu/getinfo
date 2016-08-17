@@ -40,10 +40,12 @@ public class Urls {
     //百度定位
     public static final String INTERFACE_LOCATION = "http://api.map.baidu.com/geocoder";
 
-    //优酷地址
-    public static final String MOVIE_URL = "http://www.youku.com";
+    //新浪新闻url
+    public static final String MSINA_URL = "http://sina.cn/?from=sinacom";
 
-    //头条
-    public static final String MTT_URL = "http://m.news.baidu.com/news";
+    //股票信息网址，百度api
+    public static final String STOCK_URL = "http://apis.baidu.com/apistore/stockservice/hkstock?" +
+            "apikey=c52f95571f53d3b2ef238c44ed211db6" +
+            "stockid=00001&list=1";
 
 }

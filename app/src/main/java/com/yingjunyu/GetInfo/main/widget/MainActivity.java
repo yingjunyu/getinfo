@@ -15,9 +15,10 @@ import com.yingjunyu.GetInfo.images.widget.ImageFragment;
 import com.yingjunyu.GetInfo.main.presenter.MainPresenter;
 import com.yingjunyu.GetInfo.main.presenter.MainPresenterImpl;
 import com.yingjunyu.GetInfo.main.view.MainView;
-import com.yingjunyu.GetInfo.mtoutiao.widget.MovieFragment;
+import com.yingjunyu.GetInfo.msina.widget.MsinaFragment;
 import com.yingjunyu.GetInfo.news.widget.NewsFragment;
 import com.yingjunyu.GetInfo.weather.widget.WeatherFragment;
+import com.yingjunyu.GetInfo.stock.widget.StockFragment;
 
 /**
  * Author : yingjunyu
@@ -113,8 +114,14 @@ public class MainActivity extends AppCompatActivity implements MainView {
     }
 
     @Override
-    public void switch2Movie(){
-        getSupportFragmentManager().beginTransaction().replace(R.id.frame_content, new MovieFragment()).commit();
-        mToolbar.setTitle("百度新闻");
+    public void switch2Msina(){
+        getSupportFragmentManager().beginTransaction().replace(R.id.frame_content, new MsinaFragment()).commit();
+        mToolbar.setTitle("新浪新闻");
+    }
+
+    @Override
+    public void switch2Stock(){
+        getSupportFragmentManager().beginTransaction().replace(R.id.frame_content, new StockFragment()).commit();
+        mToolbar.setTitle("上证指数");
     }
 }

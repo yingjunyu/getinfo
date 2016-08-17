@@ -25,7 +25,7 @@ import java.util.List;
  * Blog   : https://github.com/yingjunyu
  * Date   : 2015/12/22
  */
-public class WeatherModelImpl implements WeatherModel {
+public class WeatherModelImpl implements WeatherModel{
 
     private static final String TAG = "WeatherModelImpl";
 

@@ -1,3 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="F:\GetInfo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="F:\GetInfo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_41f0227dd83b9e1aa1d853439761137c2fe633fd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yingjunyu\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="F:\GetInfo\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_12dd181787b455bbf5249943add1c1451ef490c7\classes.dex" />
+    </item>
+    <item
+        jar="F:\GetInfo\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="F:\GetInfo\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-1.3.0_7e476b3629f87a198a4095caebf8c63b725510e5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="F:\GetInfo\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        jar="F:\GetInfo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2ae1c810d027fc73d4c33454bc9dfc70a662efcf">
+        <dex dex="F:\GetInfo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_796d84dfe307b7c17783fa9b336fb302d9b5ae1c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yingjunyu\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="F:\GetInfo\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.6.1_b49821df8af4766035ba817ea5c9b7aaaf920d03\classes.dex" />
+    </item>
+    <item
+        jar="F:\GetInfo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="F:\GetInfo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_e188db2d57a1b46f2737c88d0d56abc13795fa6e\classes.dex" />
+    </item>
+    <item
+        jar="F:\GetInfo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="F:\GetInfo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_78a1a1d5275b1afdd94dc2437ef208f6b3d96a2d\classes.dex" />
+    </item>
+    <item
+        jar="F:\GetInfo\app\build\intermediates\exploded-aar\org.sufficientlysecure\html-textview\1.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="bb3d9dfe7e6ea76ff7be8aafd0cd4a7e46fe3991">
+        <dex dex="F:\GetInfo\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.sufficientlysecure-html-textview-1.3_f279c85a9de848a312b15347095c11a8aabb41af\classes.dex" />
+    </item>
+    <item
+        jar="F:\GetInfo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db491131259f23ece91604b53c24f21205d2007f">
+        <dex dex="F:\GetInfo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2db8bc513b81e2ea1876e32502ef161bb8e02f57\classes.dex" />
+    </item>
+    <item
+        jar="F:\GetInfo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="F:\GetInfo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_3f1ba04977255d0ff10fe5e7e866e0264b5b2685\classes.dex" />
+    </item>
+    <item
+        jar="F:\GetInfo\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="F:\GetInfo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_7e537754ce1031c7d8aabe64c75959fbe0e9887b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yingjunyu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="F:\GetInfo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_7ee7e3db4cd7e580f15746da8f510517885cd1aa\classes.dex" />
+    </item>
+    <item
+        jar="F:\GetInfo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="F:\GetInfo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.1.1_a38a1c49fd532bffb39bfe3c762f1e455641689e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yingjunyu\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.7.0\1477ec5caf8319ab4b51eb43553cd66aa86fdea5\okhttp-2.7.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1477ec5caf8319ab4b51eb43553cd66aa86fdea5">
+        <dex dex="F:\GetInfo\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.7.0_652941b51abf2620194fdace02103679b9bf9a60\classes.dex" />
+    </item>
+
+</items>
